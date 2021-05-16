@@ -8,4 +8,7 @@
 - Opencore GUI Boot
 - Headless with iGPU
 
+### guide
+- https://x86.co.kr/tip/6018676
+
 FIN.
