@@ -1,11 +1,11 @@
 # Z490-OC-Big-Sur-11.2.3
 
-### Worked
-- General macOS Feature
+### Worked and include
+- All General macOS Feature
+- Fenvi-919 : Native BT, WiFi
  
 ### Not include or More Things you can
-- GUI Boot
-- Dual Boot with Windows
-- Headless
+- Opencore GUI Boot
+- Headless with iGPU
 
 FIN.
