@@ -1,4 +1,4 @@
-# Z490-OC-Big-Sur-11.2.3
+# Z490-OC-BigSur11.2.3
 
 ### Worked and include
 - Gigabye Z490 Auros Elite, i7-10700, Sapphire RX570 4GB, Fenvi-919(BT,WiFi)
