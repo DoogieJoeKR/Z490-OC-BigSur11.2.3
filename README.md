@@ -10,7 +10,7 @@
 - Opencore GUI Boot
 - Headless with iGPU
 - iMessage (im not use)
-- Big Sur USB3.0 Trouble & USBPort Map
+- Big Sur USB3.0 Trouble & USBPort Map (at over BigSur 11.3)
 
 ### guide
 - https://x86.co.kr/tip/6018676
