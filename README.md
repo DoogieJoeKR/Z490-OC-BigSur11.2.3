@@ -13,6 +13,7 @@ wrote: 10 May 2021, OC 0.6.7 > 0.6.9
 - Opencore GUI Boot
 - Headless with iGPU
 - Big Sur USB3.0 Trouble & USBPort Map (at over BigSur 11.3)
+- USBPort Custom Injection
 
 ### guide
 - https://x86.co.kr/tip/6018676
