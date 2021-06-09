@@ -7,11 +7,11 @@ wrote: 10 May 2021, OC 0.6.7 > 0.6.9
 - OC 0.6.7, Big Sur 11.2.3 (OC 069 upgrade)
 - All General macOS Features
   - BT, Sleep/Wake, AirDrop, iCloud
+  - (withon same ApplieId) iMessage, Sidecar 
  
 ### Not include or More Things you can
 - Opencore GUI Boot
 - Headless with iGPU
-- iMessage (im not use)
 - Big Sur USB3.0 Trouble & USBPort Map (at over BigSur 11.3)
 
 ### guide
